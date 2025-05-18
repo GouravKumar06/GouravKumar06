@@ -15,7 +15,7 @@
 - 🧠 Constantly learning and tinkering with **AI and DevOps**
 - 🚀 Future goal: Build **scalable systems** that solve futuristic problems
 - 💬 Ask me about **Node.js, GraphQL, Redis, WebSockets**
-- 📫 How to reach me: [Your Email or Portfolio]
+- 📫 How to reach me: gka98963@gmail.com
 
 ---
 
