@@ -61,27 +61,22 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gourav-K-Dev&theme=tokyonight" width="65%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="50%" />
-</p>
+> 🔥 Note: To show real contribution stats like “Today’s contributions”, “Highest in a day”, etc., you can use [GitHub Readme Stats (advanced)](https://github.com/Ashutosh00710/github-readme-activity-graph) or build a custom API fetching GitHub's GraphQL contribution data.
 
 ---
 
 ### 🔗 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=flat&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gourav-k-358451193)
 
 ---
 
 > ✨ *“Code what matters. Build what lasts.”*
+> ⭐ **"Keep learning, keep building, and always aim for impact!"**
 
