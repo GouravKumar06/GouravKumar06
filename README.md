@@ -63,11 +63,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gourav-K-Dev&theme=tokyonight" width="65%" />
-</p>
-
-> 🔥 Note: To show real contribution stats like “Today’s contributions”, “Highest in a day”, etc., you can use [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gouravkumar06&bg_color=201e1f&color=ec09dd&line=e60fd8&point=b02121&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+> [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gouravkumar06&bg_color=201e1f&color=ec09dd&line=e60fd8&point=b02121&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 ---
 
