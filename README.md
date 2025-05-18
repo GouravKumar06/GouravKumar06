@@ -17,6 +17,10 @@
 - 💬 Ask me about **Node.js, GraphQL, Redis, WebSockets**
 - 📫 How to reach me: gka98963@gmail.com
 
+- ![](https://komarev.com/ghpvc/?username=GouravKumar06&label=PROFILE+VIEWS&color=blue&style=flat)
+- ![](https://github-readme-stats.vercel.app/api/wakatime?username=GouravKumar06&theme=tokyonight)
+
+
 ---
 
 ### ⚒️ Tech Stack
