@@ -18,7 +18,7 @@
 - 📫 How to reach me: gka98963@gmail.com
 
 - ![](https://komarev.com/ghpvc/?username=Gouravkumar06&label=PROFILE+VIEWS&color=blue&style=flat)
-- ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gouravkumar06&theme=tokyonight)
+- ![WakaTime Stats](https://wakatime.com/@Gouravkumar06)
 
 
 ---
