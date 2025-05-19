@@ -19,6 +19,8 @@
 
 - ![](https://komarev.com/ghpvc/?username=Gouravkumar06&label=PROFILE+VIEWS&color=blue&style=flat)
 - ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gouravkumar06&theme=tokyonight)
+- [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Gouravkumar06&layout=compact&hide_title=true&hide_progress=true&custom_title=wakatime&range=all_time)](https://wakatime.com/@Gouravkumar06)
+
 
 
 ---
