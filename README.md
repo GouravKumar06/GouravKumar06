@@ -11,6 +11,7 @@
 ### 🧠 About Me
 
 - 🔭 I'm currently working on **high-performance backends** using Node.js & Microservices
+- 💼 **Open for Freelancing** — Let's collaborate and bring your ideas to life! 
 - 🌱 Exploring **Docker, Kubernetes, CI/CD, Grafana, Prometheus**
 - 🧠 Constantly learning and tinkering with **AI and DevOps**
 - 🚀 Future goal: Build **scalable systems** that solve futuristic problems
