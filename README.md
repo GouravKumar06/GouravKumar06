@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/gourav-k-358451193">LinkedIn</a> ·
-  <a href="mailto:gka98963@gmail.com">Email</a>
+  <a href="mailto:gouravkumar98963@gmail.com">Email</a>
 </p>
 
 ---
