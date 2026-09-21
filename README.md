@@ -13,7 +13,7 @@
 
 I build scalable, production-grade backends — REST & GraphQL APIs, event-driven microservices, multi-tenant SaaS platforms, and the CI/CD and AWS infrastructure to ship them. I care about clean architecture, performance under load, and systems that stay reliable as they grow.
 
-- 🔧 **Currently:** Backend Engineer building a multi-tenant CRM serving **50k+ users** — RBAC, Redis caching, and horizontally scaled AWS infrastructure.
+- 🔧 **Currently:** Backend Engineer building a multi-tenant CRM designed & load-tested for **50k+ concurrent users** — RBAC, Redis caching, and horizontally scaled AWS infrastructure.
 - 🎯 **Focus areas:** distributed systems, caching strategy, API design, fault tolerance.
 
 ---
