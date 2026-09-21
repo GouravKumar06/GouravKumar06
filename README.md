@@ -15,7 +15,6 @@ I build scalable, production-grade backends — REST & GraphQL APIs, event-drive
 
 - 🔧 **Currently:** Backend Engineer building a multi-tenant CRM serving **50k+ users** — RBAC, Redis caching, and horizontally scaled AWS infrastructure.
 - 🎯 **Focus areas:** distributed systems, caching strategy, API design, fault tolerance.
-- 📈 **Going deeper on:** Kubernetes and production observability (Prometheus / Grafana / OpenTelemetry).
 
 ---
 
@@ -44,5 +43,5 @@ I build scalable, production-grade backends — REST & GraphQL APIs, event-drive
 
 ## 📫 Reach me
 
-- **LinkedIn** — [linkedin.com/in/gourav-k-358451193](https://linkedin.com/in/gourav-k-358451193)
+- **LinkedIn** — [linkedin.com/in/gourav-k-358451193](https://www.linkedin.com/in/gouravkumar06)
 - **Email** — gka98963@gmail.com
