@@ -43,5 +43,5 @@ I build scalable, production-grade backends — REST & GraphQL APIs, event-drive
 
 ## 📫 Reach me
 
-- **LinkedIn** — [linkedin.com/in/gourav-k-358451193](https://www.linkedin.com/in/gouravkumar06)
+- **LinkedIn** — [linkedin.com/in/gouravkumar06](https://www.linkedin.com/in/gouravkumar06)
 - **Email** — gka98963@gmail.com
